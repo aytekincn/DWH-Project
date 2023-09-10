@@ -1,4 +1,4 @@
-# DWH-Project
+# DATA WAREHOUSE-Project
 
 ## Project Summary:
 
