@@ -1,4 +1,4 @@
-### DWH-Project
+# DWH-Project
 
 ## Project Summary:
 
